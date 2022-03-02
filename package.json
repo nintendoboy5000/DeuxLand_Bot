@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "urFate",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "mineflayer": "^3.11.0",
